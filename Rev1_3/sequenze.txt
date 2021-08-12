@@ -1,0 +1,9 @@
+RGB_HDMI.drd	drill exellon
+RGB_HDMI.out	outlines
+RGB_HDMI.plb	silkscreen bottom
+RGB_HDMI.stc	solderstopscreen top
+RGB_HDMI.sts	solderstopscreen bottom
+RGB_HDMI.plt	silkscreen top
+RGB_HDMI.cmp	copper top
+RGB_HDMI.sol	copper bottom
+
